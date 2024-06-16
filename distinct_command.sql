@@ -13,3 +13,4 @@ SELECT DISTINCT age FROM people
 
 -- as a preference, you could also add ORDER BY age DESC just to make the output more readable :)
 
+
